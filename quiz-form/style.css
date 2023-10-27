@@ -1,0 +1,154 @@
+ .quizform {
+    position: relative;
+}
+.checkbox-main {
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+div#pick_msg {
+    position: absolute;
+    right: 10px;
+    top: 38px;
+}
+div#fname_msg {
+    position: absolute;
+    right: 10px;
+    top: 125px;
+}
+div#lname_msg {
+    right: 10px;
+    position: absolute;
+    top: 210px;
+}
+div#add_msg1 {
+    right: 10px;
+    position: absolute;
+    top: 292px;
+}
+div#add_msg2 {
+    position: absolute;
+    right: 10px;
+    top: 380px;
+}
+div#add_msg3 {
+    position: absolute;
+    top: 465px;
+    right: 10px;
+}
+div#add_msg4 {
+    position: absolute;
+    right: 10px;
+    top: 532px;
+}
+div#add_msg4 {
+    position: absolute;
+    top: 550px;
+    right: 10px;
+}
+div#number_msg1 {
+    top: 41px;
+    position: absolute;
+    right: 10px;
+}
+div#add_msg5 {
+    top: 715px;
+    position: absolute;
+    right: -200px;
+}
+div#add_msg6 {
+    position: absolute;
+   top: 805px;
+    right: 10px;
+}
+div#emailInput1-error {
+    position: absolute !important;
+    top: 38px;
+    right: 5px;
+}
+div#emailInput2_error {
+    position: absolute;
+    top: 121px;
+    right: -4px;
+}
+.number_msg2 {
+    right: 10px;
+    position: absolute;
+    bottom: 353px;
+}
+.number_msg3 {
+    position: absolute;
+     bottom: 267px;
+    right: 10px;
+}
+div#add_msg7 {
+    right: 10px;
+    position: absolute;
+    bottom: 183px;
+}
+div#fname_msg1 {
+    position: absolute;
+    right: -79px;
+    top: 124px;
+}
+div#lname_msg2 {
+    position: absolute;
+    right: -85px;
+    top: 208px;
+}
+div#email_msg3 {
+    position: absolute;
+    top: 120px;
+    right: 10px;
+}
+div#subtype {
+    margin: 14px 0;
+    /* font-size: 20px; */
+    font-weight: 600;
+}
+.checkbox-group.que_check {
+    margin-bottom: 19px;
+}
+
+.forminputs{
+   width: 70%;
+   padding: 6px;
+    margin-top: 10px; 
+}
+.textinputs1{
+    width: 50%;
+}
+.quizform{
+    margin-top: 15px;
+}
+.formnum{
+    width: 70%;
+    padding: 6px;
+     margin-top: 10px;
+}
+.emailinputs{
+    width: 50%;
+}
+.formemail{
+    width: 70%;
+    padding: 6px; 
+    margin-top: 10px;
+}
+
+.email{
+    COLOR:red; 
+     position: relative;
+}
+.final {
+    cursor: pointer;
+}
+input.final {
+    padding: 12px 23px !important;
+    font-size: 20px !important;
+    background: #000;
+    color: #fff;
+    border: none;
+}
+span.required-field {
+    color: red;
+}
